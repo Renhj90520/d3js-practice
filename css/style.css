@@ -1,0 +1,38 @@
+.bar:hover {
+    fill: brown;
+}
+
+.update {
+    fill: #333;
+}
+
+.enter {
+    fill: green;
+}
+
+.alpha text {
+    font: bold 48px monospace;
+}
+
+.exit {
+    fill: brown;
+}
+
+.gridline path,
+.gridline line {
+    fill: none;
+    stroke: #ccc;
+}
+
+.trendline {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 4px;
+}
+
+.trendarea {
+    fill: #ccc;
+    stroke: #ccc;
+    stroke-width: 1px;
+    opacity: .25;
+}
